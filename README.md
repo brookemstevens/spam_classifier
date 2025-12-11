@@ -101,4 +101,4 @@ This will install Flask, flask-cors, numpy, and other necessary dependencies.
 
 This project was completed as part of my M.S. Data Science capstone project to demonstrate integration of classical machine learning techniques with modern application deployment and user interaction design.
 
-If you have questions or suggestions, feel free to reach out!
+If you have questions, feel free to reach out!
