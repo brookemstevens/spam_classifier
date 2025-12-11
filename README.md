@@ -1,6 +1,6 @@
 # Spam Detector Capstone Project
 
-This repository contains a comprehensive spam detection system consisting of a Flask web application and a Chrome browser extension. This project provides users with multiple ways to identify spam content using the Naive Bayes model.
+This repository contains a comprehensive spam detection system consisting of a Flask web application and a Chrome browser extension. This project provides users with multiple ways to identify spam content using a trained Naive Bayes model.
 
 ## Project Overview
 
